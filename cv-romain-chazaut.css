@@ -2,6 +2,14 @@
     font-family: 'Ubuntu', sans-serif;
 }
 
+h1 {
+    font-family: 'Ubuntu' sans-serif;
+    text-shadow: #7592ae;
+    text-shadow: 3px 3px 2px;
+    color: #7a9dc1;
+    font-size: 50px;
+}
+
 main {
     display: flex;
 }
@@ -9,6 +17,7 @@ main {
 
 .photo {
     padding-top: 10%;
+    
 }
 .column-right {
     display: inline-block;
@@ -28,6 +37,7 @@ main {
     background-color: #336699;
     font-size: large;
     line-height: 2;
+    position: relative;
     
 }
 
